@@ -1,0 +1,122 @@
+[
+  {
+    "source": "confident_elegance_in_rich_purple_tones.png",
+    "dest": "arden_warm_neutral.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha_bbox": [
+      279,
+      118,
+      745,
+      1501
+    ],
+    "alpha_coverage_pct": 19.79
+  },
+  {
+    "source": "playful_charm_in_plum_elegance.png",
+    "dest": "arden_teasing_smug.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha_bbox": [
+      321,
+      70,
+      702,
+      1501
+    ],
+    "alpha_coverage_pct": 20.54
+  },
+  {
+    "source": "contemplative_elegance_in_purple_tones.png",
+    "dest": "arden_soft_concerned.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha_bbox": [
+      342,
+      82,
+      681,
+      1501
+    ],
+    "alpha_coverage_pct": 19.6
+  },
+  {
+    "source": "polished_minimalist_portrait_of_woman.png",
+    "dest": "arden_serious_emotional.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha_bbox": [
+      40,
+      102,
+      984,
+      1518
+    ],
+    "alpha_coverage_pct": 75.89
+  },
+  {
+    "source": "confident_in_deep_plum_elegance.png",
+    "dest": "arden_flustered_playful.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha_bbox": [
+      277,
+      35,
+      746,
+      1501
+    ],
+    "alpha_coverage_pct": 20.71
+  },
+  {
+    "source": "elegant_woman_in_deep_purple_kimono.png",
+    "dest": "arden_festival_warm.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha_bbox": [
+      40,
+      102,
+      984,
+      1518
+    ],
+    "alpha_coverage_pct": 84.99
+  },
+  {
+    "source": "charming_confidence_in_a_purple_kimono.png",
+    "dest": "arden_festival_teasing.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha_bbox": [
+      257,
+      43,
+      767,
+      1501
+    ],
+    "alpha_coverage_pct": 26.21
+  },
+  {
+    "source": "serene_portrait_in_plum_robe.png",
+    "dest": "arden_ryokan_covered.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "alpha_bbox": [
+      227,
+      22,
+      796,
+      1502
+    ],
+    "alpha_coverage_pct": 28.84
+  }
+]

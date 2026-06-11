@@ -1,0 +1,98 @@
+[
+  {
+    "sprite": "arden_warm_neutral.png",
+    "source_used": "confident_elegance_in_rich_purple_tones.png",
+    "alpha_bbox": [
+      282,
+      129,
+      742,
+      1502
+    ],
+    "corner_alpha": 0,
+    "alpha_coverage_pct": 18.66
+  },
+  {
+    "sprite": "arden_teasing_smug.png",
+    "source_used": "playful_charm_in_plum_elegance.png",
+    "alpha_bbox": [
+      324,
+      78,
+      699,
+      1502
+    ],
+    "corner_alpha": 0,
+    "alpha_coverage_pct": 19.85
+  },
+  {
+    "sprite": "arden_soft_concerned.png",
+    "source_used": "contemplative_elegance_in_purple_tones.png",
+    "alpha_bbox": [
+      347,
+      92,
+      676,
+      1502
+    ],
+    "corner_alpha": 0,
+    "alpha_coverage_pct": 18.61
+  },
+  {
+    "sprite": "arden_serious_emotional.png",
+    "source_used": "polished_minimalist_portrait_of_woman.png",
+    "alpha_bbox": [
+      338,
+      45,
+      685,
+      1502
+    ],
+    "corner_alpha": 0,
+    "alpha_coverage_pct": 19.79
+  },
+  {
+    "sprite": "arden_flustered_playful.png",
+    "source_used": "confident_in_deep_plum_elegance.png",
+    "alpha_bbox": [
+      278,
+      38,
+      745,
+      1502
+    ],
+    "corner_alpha": 0,
+    "alpha_coverage_pct": 19.61
+  },
+  {
+    "sprite": "arden_festival_warm.png",
+    "source_used": "elegant_woman_in_deep_purple_kimono.png",
+    "alpha_bbox": [
+      281,
+      38,
+      742,
+      1502
+    ],
+    "corner_alpha": 0,
+    "alpha_coverage_pct": 24.06
+  },
+  {
+    "sprite": "arden_festival_teasing.png",
+    "source_used": "charming_confidence_in_a_purple_kimono.png",
+    "alpha_bbox": [
+      259,
+      47,
+      765,
+      1502
+    ],
+    "corner_alpha": 0,
+    "alpha_coverage_pct": 25.32
+  },
+  {
+    "sprite": "arden_ryokan_covered.png",
+    "source_used": "serene_portrait_in_plum_robe.png",
+    "alpha_bbox": [
+      295,
+      70,
+      729,
+      1502
+    ],
+    "corner_alpha": 0,
+    "alpha_coverage_pct": 23.2
+  }
+]

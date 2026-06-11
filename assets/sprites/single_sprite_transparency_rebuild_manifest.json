@@ -1,0 +1,19 @@
+{
+  "test_sprite": "arden_warm_neutral.png",
+  "source_used": "confident_elegance_in_rich_purple_tones.png",
+  "before_alpha_bbox": [
+    276,
+    115,
+    748,
+    1504
+  ],
+  "after_alpha_bbox": [
+    282,
+    129,
+    742,
+    1502
+  ],
+  "before_corner_alpha": 0,
+  "after_corner_alpha": 0,
+  "notes": "Rebuilt from clean original source image rather than re-editing the already processed sprite."
+}

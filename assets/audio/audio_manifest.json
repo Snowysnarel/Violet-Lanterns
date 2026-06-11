@@ -1,0 +1,30 @@
+{
+  "build": "v1.9.2 Ambient Realism + Full Story Continuity Hotfix",
+  "audio_root": "assets/audio/",
+  "included_audio": {
+    "ambience": {
+      "rain_soft": "assets/audio/ambience/rain_soft.wav",
+      "storm_room": "assets/audio/ambience/storm_room.wav",
+      "festival_night": "assets/audio/ambience/festival_night.wav",
+      "train_platform": "assets/audio/ambience/train_platform.wav",
+      "cafe_warm": "assets/audio/ambience/cafe_warm.wav",
+      "secret_garden": "assets/audio/ambience/secret_garden.wav"
+    },
+    "music": {
+      "main_theme": "assets/audio/music/main_theme.wav"
+    },
+    "sfx": {
+      "lantern_chime": "assets/audio/sfx/lantern_chime.wav",
+      "choice_soft": "assets/audio/sfx/choice_soft.wav",
+      "achievement": "assets/audio/sfx/achievement.wav",
+      "page_turn": "assets/audio/sfx/page_turn.wav",
+      "button_soft": "assets/audio/ui/button_soft.wav"
+    }
+  },
+  "changes": [
+    "Longer smoother ambience files",
+    "Rebalanced softer SFX",
+    "Fade-aware ambience switching",
+    "Chapter 2 continuity patched to Chapter 3"
+  ]
+}

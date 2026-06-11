@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#151827"/>
+      <stop offset="100%" stop-color="#6e7ca8"/>
+    </linearGradient>
+    <radialGradient id="r" cx="50%" cy="42%" r="55%">
+      <stop offset="0%" stop-color="#d8c6ff" stop-opacity="0.24"/>
+      <stop offset="70%" stop-color="#d8c6ff" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g)"/>
+  <rect width="1600" height="900" fill="url(#r)"/>
+  <g opacity="0.22">
+    <circle cx="210" cy="160" r="34" fill="#d8c6ff" filter="url(#softGlow)"/>
+    <circle cx="1370" cy="210" r="26" fill="#d8c6ff" filter="url(#softGlow)"/>
+    <circle cx="1220" cy="710" r="38" fill="#d8c6ff" filter="url(#softGlow)"/>
+    <circle cx="390" cy="690" r="22" fill="#d8c6ff" filter="url(#softGlow)"/>
+  </g>
+  <g transform="translate(140 120)">
+    <rect x="0" y="0" width="1320" height="660" rx="42" fill="#090512" opacity="0.48" stroke="#d8c6ff" stroke-opacity="0.55" stroke-width="3"/>
+    <text x="660" y="205" text-anchor="middle" font-family="Georgia, serif" font-size="72" fill="#d8c6ff" font-weight="700">Bittersweet Ending Reward</text>
+    <text x="660" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#fff8ea" opacity="0.86">Bonus fan-service CG slot unlocked by the Bittersweet Ending</text>
+    <text x="660" y="405" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#fff8ea" opacity="0.70">Wistful, tender, almost-goodbye reward art pending</text>
+    <text x="660" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#fff8ea" opacity="0.48">Actual bonus CG art can replace this placeholder later.</text>
+  </g>
+</svg>

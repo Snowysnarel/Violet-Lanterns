@@ -1,0 +1,90 @@
+[
+  {
+    "file": "arden_festival_teasing.png",
+    "alpha_bbox": [
+      254,
+      40,
+      770,
+      1504
+    ],
+    "alpha_coverage_pct": 26.93,
+    "corner_alpha": 0
+  },
+  {
+    "file": "arden_festival_warm.png",
+    "alpha_bbox": [
+      37,
+      99,
+      987,
+      1521
+    ],
+    "alpha_coverage_pct": 85.4,
+    "corner_alpha": 0
+  },
+  {
+    "file": "arden_flustered_playful.png",
+    "alpha_bbox": [
+      274,
+      32,
+      749,
+      1504
+    ],
+    "alpha_coverage_pct": 21.2,
+    "corner_alpha": 0
+  },
+  {
+    "file": "arden_ryokan_covered.png",
+    "alpha_bbox": [
+      225,
+      19,
+      798,
+      1504
+    ],
+    "alpha_coverage_pct": 30.24,
+    "corner_alpha": 0
+  },
+  {
+    "file": "arden_serious_emotional.png",
+    "alpha_bbox": [
+      37,
+      99,
+      987,
+      1521
+    ],
+    "alpha_coverage_pct": 77.51,
+    "corner_alpha": 0
+  },
+  {
+    "file": "arden_soft_concerned.png",
+    "alpha_bbox": [
+      339,
+      79,
+      684,
+      1504
+    ],
+    "alpha_coverage_pct": 20.23,
+    "corner_alpha": 0
+  },
+  {
+    "file": "arden_teasing_smug.png",
+    "alpha_bbox": [
+      318,
+      67,
+      705,
+      1504
+    ],
+    "alpha_coverage_pct": 21.07,
+    "corner_alpha": 0
+  },
+  {
+    "file": "arden_warm_neutral.png",
+    "alpha_bbox": [
+      276,
+      115,
+      748,
+      1504
+    ],
+    "alpha_coverage_pct": 20.3,
+    "corner_alpha": 0
+  }
+]

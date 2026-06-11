@@ -1,0 +1,2150 @@
+{
+  "build": "v1.9 Voice + Audio Integration Prep",
+  "speaker": "Arden",
+  "total_lines": 214,
+  "format": "ogg_or_mp3",
+  "fallback": "browser_tts_when_file_missing",
+  "base_path": "assets/audio/voice/arden/",
+  "lines": [
+    {
+      "line_id": "arden_prologue_001",
+      "speaker": "Arden",
+      "scene_id": "prologue",
+      "chapter": "Prologue",
+      "location": "The Violet Inn",
+      "text": "You made it. I was starting to wonder whether the rain had claimed you, my Sarel.",
+      "suggested_file": "assets/audio/voice/arden/arden_prologue_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_prologue_002",
+      "speaker": "Arden",
+      "scene_id": "prologue",
+      "chapter": "Prologue",
+      "location": "The Violet Inn",
+      "text": "Mm. Careful. Ask that too sweetly and I might tell you the truth.",
+      "suggested_file": "assets/audio/voice/arden/arden_prologue_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_inside_soft_001",
+      "speaker": "Arden",
+      "scene_id": "inside_soft",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "There. That was the correct answer. Soft, polite, and suspiciously easy to spoil.",
+      "suggested_file": "assets/audio/voice/arden/arden_inside_soft_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_inside_soft_002",
+      "speaker": "Arden",
+      "scene_id": "inside_soft",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "A warm trap. With coffee. Legally distinct from danger.",
+      "suggested_file": "assets/audio/voice/arden/arden_inside_soft_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_inside_tease_001",
+      "speaker": "Arden",
+      "scene_id": "inside_tease",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "Oh? First five minutes and already choosing trouble?",
+      "suggested_file": "assets/audio/voice/arden/arden_inside_tease_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_inside_tease_002",
+      "speaker": "Arden",
+      "scene_id": "inside_tease",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "I will neither confirm nor deny that accusation. But I will remember it.",
+      "suggested_file": "assets/audio/voice/arden/arden_inside_tease_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_inside_quiet_001",
+      "speaker": "Arden",
+      "scene_id": "inside_quiet",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "No rush. Some doors are meant to be crossed slowly.",
+      "suggested_file": "assets/audio/voice/arden/arden_inside_quiet_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_inside_quiet_002",
+      "speaker": "Arden",
+      "scene_id": "inside_quiet",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "Then maybe a part of you arrived before the rest of you did.",
+      "suggested_file": "assets/audio/voice/arden/arden_inside_quiet_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter1_coffee_001",
+      "speaker": "Arden",
+      "scene_id": "chapter1_coffee",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "House rule: coffee before difficult conversations. Second rule: if you say you’re fine while looking haunted, I reserve the right to glare.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter1_coffee_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter1_coffee_002",
+      "speaker": "Arden",
+      "scene_id": "chapter1_coffee",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "I run an inn, love. People arrive with luggage. Sometimes the suitcase is just emotional.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter1_coffee_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_ask_lanterns_001",
+      "speaker": "Arden",
+      "scene_id": "ask_lanterns",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "Mm. You noticed them quickly.",
+      "suggested_file": "assets/audio/voice/arden/arden_ask_lanterns_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_ask_lanterns_002",
+      "speaker": "Arden",
+      "scene_id": "ask_lanterns",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "Most people see rain, roofs, and prices on the menu. The lanterns prefer people who are already carrying something unsaid.",
+      "suggested_file": "assets/audio/voice/arden/arden_ask_lanterns_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_ask_lanterns_003",
+      "speaker": "Arden",
+      "scene_id": "ask_lanterns",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "Don’t look so worried. They don’t bite. Usually.",
+      "suggested_file": "assets/audio/voice/arden/arden_ask_lanterns_003.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_tease_rules_001",
+      "speaker": "Arden",
+      "scene_id": "tease_rules",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "Depends how charmingly you misbehave.",
+      "suggested_file": "assets/audio/voice/arden/arden_tease_rules_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_tease_rules_002",
+      "speaker": "Arden",
+      "scene_id": "tease_rules",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "That sounds like evidence. I’m starting a file.",
+      "suggested_file": "assets/audio/voice/arden/arden_tease_rules_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_tease_rules_003",
+      "speaker": "Arden",
+      "scene_id": "tease_rules",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "Careful, my Sarel. This town remembers teasing almost as well as I do.",
+      "suggested_file": "assets/audio/voice/arden/arden_tease_rules_003.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_admit_tired_001",
+      "speaker": "Arden",
+      "scene_id": "admit_tired",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "Then we do not pretend you are fine.",
+      "suggested_file": "assets/audio/voice/arden/arden_admit_tired_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_admit_tired_002",
+      "speaker": "Arden",
+      "scene_id": "admit_tired",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "No heroic speeches tonight. Just coffee, rain, and one honest breath at a time.",
+      "suggested_file": "assets/audio/voice/arden/arden_admit_tired_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_admit_tired_003",
+      "speaker": "Arden",
+      "scene_id": "admit_tired",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "Mm. And some of them were very stubborn. Cute, though.",
+      "suggested_file": "assets/audio/voice/arden/arden_admit_tired_003.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter1_window_001",
+      "speaker": "Arden",
+      "scene_id": "chapter1_window",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "There it is again.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter1_window_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter1_window_002",
+      "speaker": "Arden",
+      "scene_id": "chapter1_window",
+      "chapter": "Chapter 1",
+      "location": "Violet Inn Café",
+      "text": "I did say I might tell you the truth. I did not promise I would do it immediately.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter1_window_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter2_shrine_start_001",
+      "speaker": "Arden",
+      "scene_id": "chapter2_shrine_start",
+      "chapter": "Chapter 2",
+      "location": "Shrine Road",
+      "text": "You walked after it without waiting for me.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter2_shrine_start_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter2_shrine_start_002",
+      "speaker": "Arden",
+      "scene_id": "chapter2_shrine_start",
+      "chapter": "Chapter 2",
+      "location": "Shrine Road",
+      "text": "Of course I did. Brave and alone is still alone.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter2_shrine_start_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter2_lantern_walk_001",
+      "speaker": "Arden",
+      "scene_id": "chapter2_lantern_walk",
+      "chapter": "Chapter 2",
+      "location": "Shrine Road",
+      "text": "You asked me to come with you.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter2_lantern_walk_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter2_lantern_walk_002",
+      "speaker": "Arden",
+      "scene_id": "chapter2_lantern_walk",
+      "chapter": "Chapter 2",
+      "location": "Shrine Road",
+      "text": "No. I mean yes. I mean… I’m pretending that was not very sweet.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter2_lantern_walk_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter2_midnight_cafe_001",
+      "speaker": "Arden",
+      "scene_id": "chapter2_midnight_cafe",
+      "chapter": "Chapter 2",
+      "location": "Midnight Café",
+      "text": "You chose coffee over mysterious magic. I respect this deeply.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter2_midnight_cafe_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter2_midnight_cafe_002",
+      "speaker": "Arden",
+      "scene_id": "chapter2_midnight_cafe",
+      "chapter": "Chapter 2",
+      "location": "Midnight Café",
+      "text": "Yes, and you obeying it is unfairly charming. Rude, honestly.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter2_midnight_cafe_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_alone_admission_001",
+      "speaker": "Arden",
+      "scene_id": "alone_admission",
+      "chapter": "Chapter 2",
+      "location": "Shrine Road",
+      "text": "I know.",
+      "suggested_file": "assets/audio/voice/arden/arden_alone_admission_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_alone_admission_002",
+      "speaker": "Arden",
+      "scene_id": "alone_admission",
+      "chapter": "Chapter 2",
+      "location": "Shrine Road",
+      "text": "It does. Not because you can’t. Because you should not always have to.",
+      "suggested_file": "assets/audio/voice/arden/arden_alone_admission_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_joked_to_hide_001",
+      "speaker": "Arden",
+      "scene_id": "joked_to_hide",
+      "chapter": "Chapter 2",
+      "location": "Shrine Road",
+      "text": "Pretty? That earned you half a point.",
+      "suggested_file": "assets/audio/voice/arden/arden_joked_to_hide_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_joked_to_hide_002",
+      "speaker": "Arden",
+      "scene_id": "joked_to_hide",
+      "chapter": "Chapter 2",
+      "location": "Shrine Road",
+      "text": "You used a joke as armor. I noticed.",
+      "suggested_file": "assets/audio/voice/arden/arden_joked_to_hide_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_asked_worry_001",
+      "speaker": "Arden",
+      "scene_id": "asked_worry",
+      "chapter": "Chapter 2",
+      "location": "Shrine Road",
+      "text": "Because the lanterns do not call people for small reasons.",
+      "suggested_file": "assets/audio/voice/arden/arden_asked_worry_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_asked_worry_002",
+      "speaker": "Arden",
+      "scene_id": "asked_worry",
+      "chapter": "Chapter 2",
+      "location": "Shrine Road",
+      "text": "I did not let you. I walked with you.",
+      "suggested_file": "assets/audio/voice/arden/arden_asked_worry_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_let_her_pretend_001",
+      "speaker": "Arden",
+      "scene_id": "let_her_pretend",
+      "chapter": "Chapter 2",
+      "location": "Shrine Road",
+      "text": "That little smile is very loud, you know.",
+      "suggested_file": "assets/audio/voice/arden/arden_let_her_pretend_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_let_her_pretend_002",
+      "speaker": "Arden",
+      "scene_id": "let_her_pretend",
+      "chapter": "Chapter 2",
+      "location": "Shrine Road",
+      "text": "Exactly. Suspicious behavior.",
+      "suggested_file": "assets/audio/voice/arden/arden_let_her_pretend_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_teased_flustered_001",
+      "speaker": "Arden",
+      "scene_id": "teased_flustered",
+      "chapter": "Chapter 2",
+      "location": "Shrine Road",
+      "text": "Dangerous sentence. Reckless delivery. Ten points.",
+      "suggested_file": "assets/audio/voice/arden/arden_teased_flustered_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_teased_flustered_002",
+      "speaker": "Arden",
+      "scene_id": "teased_flustered",
+      "chapter": "Chapter 2",
+      "location": "Shrine Road",
+      "text": "I did. It has tabs now.",
+      "suggested_file": "assets/audio/voice/arden/arden_teased_flustered_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_wanted_her_beside_001",
+      "speaker": "Arden",
+      "scene_id": "wanted_her_beside",
+      "chapter": "Chapter 2",
+      "location": "Shrine Road",
+      "text": "Oh.",
+      "suggested_file": "assets/audio/voice/arden/arden_wanted_her_beside_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_wanted_her_beside_002",
+      "speaker": "Arden",
+      "scene_id": "wanted_her_beside",
+      "chapter": "Chapter 2",
+      "location": "Shrine Road",
+      "text": "Then beside you is where I’ll be.",
+      "suggested_file": "assets/audio/voice/arden/arden_wanted_her_beside_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_lantern_waiting_both_001",
+      "speaker": "Arden",
+      "scene_id": "lantern_waiting_both",
+      "chapter": "Chapter 2",
+      "location": "Midnight Café",
+      "text": "Maybe. Or maybe it knows you will listen better if I’m there.",
+      "suggested_file": "assets/audio/voice/arden/arden_lantern_waiting_both_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_lantern_waiting_both_002",
+      "speaker": "Arden",
+      "scene_id": "lantern_waiting_both",
+      "chapter": "Chapter 2",
+      "location": "Midnight Café",
+      "text": "No. Annoyingly clever little lantern.",
+      "suggested_file": "assets/audio/voice/arden/arden_lantern_waiting_both_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_arden_feels_safe_001",
+      "speaker": "Arden",
+      "scene_id": "arden_feels_safe",
+      "chapter": "Chapter 2",
+      "location": "Midnight Café",
+      "text": "Sarel…",
+      "suggested_file": "assets/audio/voice/arden/arden_arden_feels_safe_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_arden_feels_safe_002",
+      "speaker": "Arden",
+      "scene_id": "arden_feels_safe",
+      "chapter": "Chapter 2",
+      "location": "Midnight Café",
+      "text": "Then we go only when you are ready. No sooner.",
+      "suggested_file": "assets/audio/voice/arden/arden_arden_feels_safe_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_because_she_told_001",
+      "speaker": "Arden",
+      "scene_id": "because_she_told",
+      "chapter": "Chapter 2",
+      "location": "Midnight Café",
+      "text": "Mhm. Obedient menace. Very rare species.",
+      "suggested_file": "assets/audio/voice/arden/arden_because_she_told_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_because_she_told_002",
+      "speaker": "Arden",
+      "scene_id": "because_she_told",
+      "chapter": "Chapter 2",
+      "location": "Midnight Café",
+      "text": "No. Finish your coffee. I’m not done supervising you.",
+      "suggested_file": "assets/audio/voice/arden/arden_because_she_told_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter2_balcony_bridge_001",
+      "speaker": "Arden",
+      "scene_id": "chapter2_balcony_bridge",
+      "chapter": "Chapter 2",
+      "location": "Lantern Balcony",
+      "text": "This is where the inn breathes.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter2_balcony_bridge_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter2_balcony_bridge_002",
+      "speaker": "Arden",
+      "scene_id": "chapter2_balcony_bridge",
+      "chapter": "Chapter 2",
+      "location": "Lantern Balcony",
+      "text": "It is. In the ways that matter.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter2_balcony_bridge_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_asked_secret_truth_001",
+      "speaker": "Arden",
+      "scene_id": "asked_secret_truth",
+      "chapter": "Chapter 2",
+      "location": "Lantern Balcony",
+      "text": "That this town shows people the shape of what they avoid.",
+      "suggested_file": "assets/audio/voice/arden/arden_asked_secret_truth_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_asked_secret_truth_002",
+      "speaker": "Arden",
+      "scene_id": "asked_secret_truth",
+      "chapter": "Chapter 2",
+      "location": "Lantern Balcony",
+      "text": "They do not lead you to answers. They lead you to the door you keep walking past.",
+      "suggested_file": "assets/audio/voice/arden/arden_asked_secret_truth_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_stood_close_001",
+      "speaker": "Arden",
+      "scene_id": "stood_close",
+      "chapter": "Chapter 2",
+      "location": "Lantern Balcony",
+      "text": "Quiet choice. Strong choice.",
+      "suggested_file": "assets/audio/voice/arden/arden_stood_close_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_stood_close_002",
+      "speaker": "Arden",
+      "scene_id": "stood_close",
+      "chapter": "Chapter 2",
+      "location": "Lantern Balcony",
+      "text": "Only yours. Don’t make it weird.",
+      "suggested_file": "assets/audio/voice/arden/arden_stood_close_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_pretty_line_001",
+      "speaker": "Arden",
+      "scene_id": "pretty_line",
+      "chapter": "Chapter 2",
+      "location": "Lantern Balcony",
+      "text": "Almost? Bold survival strategy.",
+      "suggested_file": "assets/audio/voice/arden/arden_pretty_line_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_pretty_line_002",
+      "speaker": "Arden",
+      "scene_id": "pretty_line",
+      "chapter": "Chapter 2",
+      "location": "Lantern Balcony",
+      "text": "Oh, you are absolutely in trouble later.",
+      "suggested_file": "assets/audio/voice/arden/arden_pretty_line_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_everyone_here_001",
+      "speaker": "Arden",
+      "scene_id": "everyone_here",
+      "chapter": "Chapter 2",
+      "location": "Lantern Balcony",
+      "text": "No.",
+      "suggested_file": "assets/audio/voice/arden/arden_everyone_here_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_everyone_here_002",
+      "speaker": "Arden",
+      "scene_id": "everyone_here",
+      "chapter": "Chapter 2",
+      "location": "Lantern Balcony",
+      "text": "Some places should only be shared when the quiet feels safe.",
+      "suggested_file": "assets/audio/voice/arden/arden_everyone_here_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter2_close_001",
+      "speaker": "Arden",
+      "scene_id": "chapter2_close",
+      "chapter": "Chapter 2",
+      "location": "Lantern Balcony",
+      "text": "That means Chapter Three will not be gentle.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter2_close_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter2_close_002",
+      "speaker": "Arden",
+      "scene_id": "chapter2_close",
+      "chapter": "Chapter 2",
+      "location": "Lantern Balcony",
+      "text": "A little. But I’ll be with you, so you may panic in a controlled and attractive manner.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter2_close_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter3_morning_001",
+      "speaker": "Arden",
+      "scene_id": "chapter3_morning",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "Good morning, my Sarel. You survived haunted lanterns, emotional staircases, and my supervision.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter3_morning_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter3_morning_002",
+      "speaker": "Arden",
+      "scene_id": "chapter3_morning",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "Correct answer. You may have breakfast.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter3_morning_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_morning_was_real_001",
+      "speaker": "Arden",
+      "scene_id": "morning_was_real",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "Real enough to change what you carry.",
+      "suggested_file": "assets/audio/voice/arden/arden_morning_was_real_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_morning_was_real_002",
+      "speaker": "Arden",
+      "scene_id": "morning_was_real",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "Truth rarely starts comfortable. It starts honest.",
+      "suggested_file": "assets/audio/voice/arden/arden_morning_was_real_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_morning_slept_better_001",
+      "speaker": "Arden",
+      "scene_id": "morning_slept_better",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "Oh. That is… unfairly sweet before coffee.",
+      "suggested_file": "assets/audio/voice/arden/arden_morning_slept_better_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_morning_slept_better_002",
+      "speaker": "Arden",
+      "scene_id": "morning_slept_better",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "Absolutely not. I’m keeping it. Possibly labeling it.",
+      "suggested_file": "assets/audio/voice/arden/arden_morning_slept_better_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_morning_supervision_001",
+      "speaker": "Arden",
+      "scene_id": "morning_supervision",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "That depends. Are you planning to be responsible, or do I need the clipboard?",
+      "suggested_file": "assets/audio/voice/arden/arden_morning_supervision_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_morning_supervision_002",
+      "speaker": "Arden",
+      "scene_id": "morning_supervision",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "Emotionally, yes.",
+      "suggested_file": "assets/audio/voice/arden/arden_morning_supervision_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_invitation_001",
+      "speaker": "Arden",
+      "scene_id": "festival_invitation",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "The lantern festival begins tonight.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_invitation_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_invitation_002",
+      "speaker": "Arden",
+      "scene_id": "festival_invitation",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "It is. The town hangs ordinary lanterns for visitors… and violet ones for the things people finally admit.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_invitation_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_invitation_003",
+      "speaker": "Arden",
+      "scene_id": "festival_invitation",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "It is also a perfectly respectable excuse for me to wear something pretty and watch you pretend not to stare.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_invitation_003.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_obvious_001",
+      "speaker": "Arden",
+      "scene_id": "festival_obvious",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "My Sarel, your face has subtitles.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_obvious_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_obvious_002",
+      "speaker": "Arden",
+      "scene_id": "festival_obvious",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "Useful. Adorable. Occasionally incriminating.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_obvious_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_looking_forward_001",
+      "speaker": "Arden",
+      "scene_id": "festival_looking_forward",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "Good.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_looking_forward_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_looking_forward_002",
+      "speaker": "Arden",
+      "scene_id": "festival_looking_forward",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "Very good. Do not make me repeat it while I’m holding hot coffee.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_looking_forward_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_lantern_question_001",
+      "speaker": "Arden",
+      "scene_id": "festival_lantern_question",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "Then someone is standing close to a truth they can still choose to avoid.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_lantern_question_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_lantern_question_002",
+      "speaker": "Arden",
+      "scene_id": "festival_lantern_question",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "Then the town opens one more door.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_lantern_question_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_street_start_001",
+      "speaker": "Arden",
+      "scene_id": "festival_street_start",
+      "chapter": "Chapter 3",
+      "location": "Lantern Festival",
+      "text": "Well?",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_street_start_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_street_start_002",
+      "speaker": "Arden",
+      "scene_id": "festival_street_start",
+      "chapter": "Chapter 3",
+      "location": "Lantern Festival",
+      "text": "I gave you a whole dramatic entrance. A reaction would be polite.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_street_start_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_beautiful_001",
+      "speaker": "Arden",
+      "scene_id": "festival_beautiful",
+      "chapter": "Chapter 3",
+      "location": "Lantern Festival",
+      "text": "There it is.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_beautiful_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_beautiful_002",
+      "speaker": "Arden",
+      "scene_id": "festival_beautiful",
+      "chapter": "Chapter 3",
+      "location": "Lantern Festival",
+      "text": "No. Just enough to be dangerous.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_beautiful_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_trouble_001",
+      "speaker": "Arden",
+      "scene_id": "festival_trouble",
+      "chapter": "Chapter 3",
+      "location": "Lantern Festival",
+      "text": "Only definitely?",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_trouble_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_trouble_002",
+      "speaker": "Arden",
+      "scene_id": "festival_trouble",
+      "chapter": "Chapter 3",
+      "location": "Lantern Festival",
+      "text": "Mm. Evidence can be arranged.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_trouble_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_offer_arm_001",
+      "speaker": "Arden",
+      "scene_id": "festival_offer_arm",
+      "chapter": "Chapter 3",
+      "location": "Lantern Festival",
+      "text": "Soft menace today, then.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_offer_arm_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_offer_arm_002",
+      "speaker": "Arden",
+      "scene_id": "festival_offer_arm",
+      "chapter": "Chapter 3",
+      "location": "Lantern Festival",
+      "text": "It is. Don’t get smug.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_offer_arm_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_choice_path_001",
+      "speaker": "Arden",
+      "scene_id": "festival_choice_path",
+      "chapter": "Chapter 3",
+      "location": "Lantern Festival",
+      "text": "Pick something, love. I promise to judge you affectionately.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_choice_path_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_charm_stall_001",
+      "speaker": "Arden",
+      "scene_id": "charm_stall",
+      "chapter": "Chapter 3",
+      "location": "Lantern Festival",
+      "text": "This one is for returning safely.",
+      "suggested_file": "assets/audio/voice/arden/arden_charm_stall_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_charm_stall_002",
+      "speaker": "Arden",
+      "scene_id": "charm_stall",
+      "chapter": "Chapter 3",
+      "location": "Lantern Festival",
+      "text": "From wherever your thoughts take you when you forget you are allowed to come back.",
+      "suggested_file": "assets/audio/voice/arden/arden_charm_stall_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_dance_001",
+      "speaker": "Arden",
+      "scene_id": "festival_dance",
+      "chapter": "Chapter 3",
+      "location": "Lantern Festival",
+      "text": "That was not a question.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_dance_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_dance_002",
+      "speaker": "Arden",
+      "scene_id": "festival_dance",
+      "chapter": "Chapter 3",
+      "location": "Lantern Festival",
+      "text": "You are getting bold. I’m blaming the lanterns.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_dance_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_onsen_setup_001",
+      "speaker": "Arden",
+      "scene_id": "onsen_setup",
+      "chapter": "Chapter 3",
+      "location": "Ryokan Hot Spring",
+      "text": "This is the quietest place in the inn.",
+      "suggested_file": "assets/audio/voice/arden/arden_onsen_setup_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_onsen_setup_002",
+      "speaker": "Arden",
+      "scene_id": "onsen_setup",
+      "chapter": "Chapter 3",
+      "location": "Ryokan Hot Spring",
+      "text": "That’s because you brought your heartbeat with you.",
+      "suggested_file": "assets/audio/voice/arden/arden_onsen_setup_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_truth_lantern_001",
+      "speaker": "Arden",
+      "scene_id": "festival_truth_lantern",
+      "chapter": "Chapter 3",
+      "location": "Festival Side Path",
+      "text": "That one appeared for you.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_truth_lantern_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_festival_truth_lantern_002",
+      "speaker": "Arden",
+      "scene_id": "festival_truth_lantern",
+      "chapter": "Chapter 3",
+      "location": "Festival Side Path",
+      "text": "Because it turned when you stopped pretending not to see it.",
+      "suggested_file": "assets/audio/voice/arden/arden_festival_truth_lantern_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter3_close_001",
+      "speaker": "Arden",
+      "scene_id": "chapter3_close",
+      "chapter": "Chapter 3",
+      "location": "Festival Night",
+      "text": "You’re different tonight.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter3_close_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter3_close_002",
+      "speaker": "Arden",
+      "scene_id": "chapter3_close",
+      "chapter": "Chapter 3",
+      "location": "Festival Night",
+      "text": "Less outside the story.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter3_close_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter3_close_003",
+      "speaker": "Arden",
+      "scene_id": "chapter3_close",
+      "chapter": "Chapter 3",
+      "location": "Festival Night",
+      "text": "Chapter Four may require bravery, honesty, and possibly snacks.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter3_close_003.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter4_secret_garden_001",
+      "speaker": "Arden",
+      "scene_id": "chapter4_secret_garden",
+      "chapter": "Chapter 4",
+      "location": "Secret Lantern Garden",
+      "text": "This is where the town stops being polite.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter4_secret_garden_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_chapter4_secret_garden_002",
+      "speaker": "Arden",
+      "scene_id": "chapter4_secret_garden",
+      "chapter": "Chapter 4",
+      "location": "Secret Lantern Garden",
+      "text": "Yes. Which is much worse.",
+      "suggested_file": "assets/audio/voice/arden/arden_chapter4_secret_garden_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_garden_ready_truth_001",
+      "speaker": "Arden",
+      "scene_id": "garden_ready_truth",
+      "chapter": "Chapter 4",
+      "location": "Secret Lantern Garden",
+      "text": "Then do not only hear it. Stay when it reaches you.",
+      "suggested_file": "assets/audio/voice/arden/arden_garden_ready_truth_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_garden_ready_truth_002",
+      "speaker": "Arden",
+      "scene_id": "garden_ready_truth",
+      "chapter": "Chapter 4",
+      "location": "Secret Lantern Garden",
+      "text": "The garden does not show you what you want. It shows you what you keep surviving without naming.",
+      "suggested_file": "assets/audio/voice/arden/arden_garden_ready_truth_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_garden_stay_close_001",
+      "speaker": "Arden",
+      "scene_id": "garden_stay_close",
+      "chapter": "Chapter 4",
+      "location": "Secret Lantern Garden",
+      "text": "I’m here.",
+      "suggested_file": "assets/audio/voice/arden/arden_garden_stay_close_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_garden_stay_close_002",
+      "speaker": "Arden",
+      "scene_id": "garden_stay_close",
+      "chapter": "Chapter 4",
+      "location": "Secret Lantern Garden",
+      "text": "It should have been easy for someone to say that to you before.",
+      "suggested_file": "assets/audio/voice/arden/arden_garden_stay_close_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_garden_nervous_joke_001",
+      "speaker": "Arden",
+      "scene_id": "garden_nervous_joke",
+      "chapter": "Chapter 4",
+      "location": "Secret Lantern Garden",
+      "text": "Only if it uses poor customer service tone.",
+      "suggested_file": "assets/audio/voice/arden/arden_garden_nervous_joke_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_garden_nervous_joke_002",
+      "speaker": "Arden",
+      "scene_id": "garden_nervous_joke",
+      "chapter": "Chapter 4",
+      "location": "Secret Lantern Garden",
+      "text": "Good. That means you are not numb.",
+      "suggested_file": "assets/audio/voice/arden/arden_garden_nervous_joke_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_garden_too_much_001",
+      "speaker": "Arden",
+      "scene_id": "garden_too_much",
+      "chapter": "Chapter 4",
+      "location": "Secret Lantern Garden",
+      "text": "Then we do not force the door.",
+      "suggested_file": "assets/audio/voice/arden/arden_garden_too_much_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_garden_too_much_002",
+      "speaker": "Arden",
+      "scene_id": "garden_too_much",
+      "chapter": "Chapter 4",
+      "location": "Secret Lantern Garden",
+      "text": "But waiting has a cost too, love.",
+      "suggested_file": "assets/audio/voice/arden/arden_garden_too_much_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_storm_room_truth_001",
+      "speaker": "Arden",
+      "scene_id": "storm_room_truth",
+      "chapter": "Chapter 4",
+      "location": "Storm Room",
+      "text": "The garden showed you a door. This room asks whether you will open it.",
+      "suggested_file": "assets/audio/voice/arden/arden_storm_room_truth_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_storm_room_truth_002",
+      "speaker": "Arden",
+      "scene_id": "storm_room_truth",
+      "chapter": "Chapter 4",
+      "location": "Storm Room",
+      "text": "Then something old stops having to knock from the inside.",
+      "suggested_file": "assets/audio/voice/arden/arden_storm_room_truth_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_storm_room_soft_001",
+      "speaker": "Arden",
+      "scene_id": "storm_room_soft",
+      "chapter": "Chapter 4",
+      "location": "Storm Room",
+      "text": "No heroic ending tonight. Just choosing what you can actually keep choosing tomorrow.",
+      "suggested_file": "assets/audio/voice/arden/arden_storm_room_soft_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_storm_room_soft_002",
+      "speaker": "Arden",
+      "scene_id": "storm_room_soft",
+      "chapter": "Chapter 4",
+      "location": "Storm Room",
+      "text": "It is. Soft things are allowed to be enough. I will fight the entire genre if needed.",
+      "suggested_file": "assets/audio/voice/arden/arden_storm_room_soft_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_storm_room_avoid_001",
+      "speaker": "Arden",
+      "scene_id": "storm_room_avoid",
+      "chapter": "Chapter 4",
+      "location": "Storm Room",
+      "text": "I will not punish you for not being ready.",
+      "suggested_file": "assets/audio/voice/arden/arden_storm_room_avoid_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_storm_room_avoid_002",
+      "speaker": "Arden",
+      "scene_id": "storm_room_avoid",
+      "chapter": "Chapter 4",
+      "location": "Storm Room",
+      "text": "But the lanterns do not disappear because we close our eyes.",
+      "suggested_file": "assets/audio/voice/arden/arden_storm_room_avoid_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_ending_calculation_001",
+      "speaker": "Arden",
+      "scene_id": "ending_calculation",
+      "chapter": "Finale",
+      "location": "Violet Inn",
+      "text": "Whatever the ending is, my Sarel… you did not walk to it alone.",
+      "suggested_file": "assets/audio/voice/arden/arden_ending_calculation_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_morning_cup_001",
+      "speaker": "Arden",
+      "scene_id": "warm_morning_cup",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "There. Before the world starts asking things from you.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_morning_cup_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_morning_cup_002",
+      "speaker": "Arden",
+      "scene_id": "warm_morning_cup",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "That is a very unfair thing to say while I am holding coffee.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_morning_cup_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_morning_kept_001",
+      "speaker": "Arden",
+      "scene_id": "warm_morning_kept",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "Then we do not treat it like an accident.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_morning_kept_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_morning_kept_002",
+      "speaker": "Arden",
+      "scene_id": "warm_morning_kept",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "A suspiciously important house rule.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_morning_kept_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_morning_quiet_001",
+      "speaker": "Arden",
+      "scene_id": "warm_morning_quiet",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "There you are.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_morning_quiet_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_morning_quiet_002",
+      "speaker": "Arden",
+      "scene_id": "warm_morning_quiet",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "Not gone. Just used to bracing.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_morning_quiet_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_morning_careful_001",
+      "speaker": "Arden",
+      "scene_id": "warm_morning_careful",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "No.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_morning_careful_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_morning_careful_002",
+      "speaker": "Arden",
+      "scene_id": "warm_morning_careful",
+      "chapter": "Chapter 3",
+      "location": "Morning Café",
+      "text": "Some people make me want to leave the light on.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_morning_careful_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_route_lock_001",
+      "speaker": "Arden",
+      "scene_id": "warm_route_lock",
+      "chapter": "Warm Route",
+      "location": "Storm Room",
+      "text": "The Warm route is not the easy route, love.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_route_lock_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_route_lock_002",
+      "speaker": "Arden",
+      "scene_id": "warm_route_lock",
+      "chapter": "Warm Route",
+      "location": "Storm Room",
+      "text": "No. It is the one where you stop mistaking peace for something temporary.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_route_lock_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_route_peace_001",
+      "speaker": "Arden",
+      "scene_id": "warm_route_peace",
+      "chapter": "Warm Route",
+      "location": "Storm Room",
+      "text": "Good.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_route_peace_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_route_peace_002",
+      "speaker": "Arden",
+      "scene_id": "warm_route_peace",
+      "chapter": "Warm Route",
+      "location": "Storm Room",
+      "text": "No. Brave. But if I say that too dramatically, you will get shy and make it my problem.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_route_peace_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_route_belief_001",
+      "speaker": "Arden",
+      "scene_id": "warm_route_belief",
+      "chapter": "Warm Route",
+      "location": "Storm Room",
+      "text": "Then we start small. Not forever. Not promises too heavy to carry.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_route_belief_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_route_belief_002",
+      "speaker": "Arden",
+      "scene_id": "warm_route_belief",
+      "chapter": "Warm Route",
+      "location": "Storm Room",
+      "text": "Tonight. Coffee. One honest thing. Then tomorrow.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_route_belief_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_route_scared_001",
+      "speaker": "Arden",
+      "scene_id": "warm_route_scared",
+      "chapter": "Warm Route",
+      "location": "Storm Room",
+      "text": "I know.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_route_scared_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_route_scared_002",
+      "speaker": "Arden",
+      "scene_id": "warm_route_scared",
+      "chapter": "Warm Route",
+      "location": "Storm Room",
+      "text": "Because I have seen the way you reach for warmth like it might disappear if you blink.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_route_scared_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_kitchen_late_001",
+      "speaker": "Arden",
+      "scene_id": "warm_kitchen_late",
+      "chapter": "Warm Route",
+      "location": "Late Inn Kitchen",
+      "text": "House rule.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_kitchen_late_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_kitchen_late_002",
+      "speaker": "Arden",
+      "scene_id": "warm_kitchen_late",
+      "chapter": "Warm Route",
+      "location": "Late Inn Kitchen",
+      "text": "Coffee before, during, and after. I have expanded the legislation.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_kitchen_late_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_present_001",
+      "speaker": "Arden",
+      "scene_id": "warm_present",
+      "chapter": "Warm Route",
+      "location": "Late Inn Kitchen",
+      "text": "There. That counts.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_present_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_present_002",
+      "speaker": "Arden",
+      "scene_id": "warm_present",
+      "chapter": "Warm Route",
+      "location": "Late Inn Kitchen",
+      "text": "Staying counts. Coffee merely assists with morale.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_present_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_home_001",
+      "speaker": "Arden",
+      "scene_id": "warm_home",
+      "chapter": "Warm Route",
+      "location": "Late Inn Kitchen",
+      "text": "You cannot just say that in the kitchen.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_home_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_home_002",
+      "speaker": "Arden",
+      "scene_id": "warm_home",
+      "chapter": "Warm Route",
+      "location": "Late Inn Kitchen",
+      "text": "Here. Obviously. I am simply complaining because my heart is behaving.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_home_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_quiet_minute_001",
+      "speaker": "Arden",
+      "scene_id": "warm_quiet_minute",
+      "chapter": "Warm Route",
+      "location": "Late Inn Kitchen",
+      "text": "Yes.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_quiet_minute_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_quiet_minute_002",
+      "speaker": "Arden",
+      "scene_id": "warm_quiet_minute",
+      "chapter": "Warm Route",
+      "location": "Late Inn Kitchen",
+      "text": "There. Yours for a minute.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_quiet_minute_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_lantern_promise_001",
+      "speaker": "Arden",
+      "scene_id": "warm_lantern_promise",
+      "chapter": "Warm Route",
+      "location": "Violet Inn",
+      "text": "It wants a promise.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_lantern_promise_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_lantern_promise_002",
+      "speaker": "Arden",
+      "scene_id": "warm_lantern_promise",
+      "chapter": "Warm Route",
+      "location": "Violet Inn",
+      "text": "From both of us. Something light enough to keep.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_lantern_promise_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_ending_001",
+      "speaker": "Arden",
+      "scene_id": "warm_ending",
+      "chapter": "Ending",
+      "location": "Warm Ending",
+      "text": "Coffee first?",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_ending_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_ending_002",
+      "speaker": "Arden",
+      "scene_id": "warm_ending",
+      "chapter": "Ending",
+      "location": "Warm Ending",
+      "text": "Mm. But no running from them. I know your tricks now.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_ending_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_warm_ending_003",
+      "speaker": "Arden",
+      "scene_id": "warm_ending",
+      "chapter": "Ending",
+      "location": "Warm Ending",
+      "text": "Then I leave the light on and make coffee. Very threatening. Very domestic.",
+      "suggested_file": "assets/audio/voice/arden/arden_warm_ending_003.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_route_lock_001",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_route_lock",
+      "chapter": "Bittersweet Route",
+      "location": "Violet Inn",
+      "text": "This is the Bittersweet route, love.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_route_lock_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_route_lock_002",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_route_lock",
+      "chapter": "Bittersweet Route",
+      "location": "Violet Inn",
+      "text": "No. It means the truth is still too sharp to hold barehanded tonight.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_route_lock_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_station_001",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_station",
+      "chapter": "Bittersweet Route",
+      "location": "Rain Road to the Station",
+      "text": "I know.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_station_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_station_002",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_station",
+      "chapter": "Bittersweet Route",
+      "location": "Rain Road to the Station",
+      "text": "Yes. I am stubborn in several emotionally inconvenient directions.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_station_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_not_ready_001",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_not_ready",
+      "chapter": "Bittersweet Route",
+      "location": "Violet Inn Doorway",
+      "text": "That is still a kind of honesty.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_not_ready_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_not_ready_002",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_not_ready",
+      "chapter": "Bittersweet Route",
+      "location": "Violet Inn Doorway",
+      "text": "Small honest things have saved more people than grand speeches ever did.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_not_ready_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_quiet_departure_001",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_quiet_departure",
+      "chapter": "Bittersweet Route",
+      "location": "Inn Hallway",
+      "text": "Sarel.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_quiet_departure_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_quiet_departure_002",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_quiet_departure",
+      "chapter": "Bittersweet Route",
+      "location": "Inn Hallway",
+      "text": "Leaving without goodbye would not make it softer. It would only make it quieter.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_quiet_departure_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_platform_wait_001",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_platform_wait",
+      "chapter": "Bittersweet Route",
+      "location": "Departure Platform",
+      "text": "You can still leave the door open.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_platform_wait_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_platform_wait_002",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_platform_wait",
+      "chapter": "Bittersweet Route",
+      "location": "Departure Platform",
+      "text": "Especially then.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_platform_wait_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_door_left_open_001",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_door_left_open",
+      "chapter": "Bittersweet Route",
+      "location": "Departure Platform",
+      "text": "Then tonight does not get to pretend it is forever.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_door_left_open_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_lantern_left_001",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_lantern_left",
+      "chapter": "Bittersweet Route",
+      "location": "Departure Platform",
+      "text": "That is a very unfair request to make in the rain.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_lantern_left_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_lantern_left_002",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_lantern_left",
+      "chapter": "Bittersweet Route",
+      "location": "Departure Platform",
+      "text": "Yes. I will keep the light. But not as a cage. As a promise that the door remembers you.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_lantern_left_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_honest_goodbye_001",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_honest_goodbye",
+      "chapter": "Bittersweet Route",
+      "location": "Departure Platform",
+      "text": "All right.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_honest_goodbye_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_honest_goodbye_002",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_honest_goodbye",
+      "chapter": "Bittersweet Route",
+      "location": "Departure Platform",
+      "text": "I wanted you to stay.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_honest_goodbye_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_ending_001",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_ending",
+      "chapter": "Ending",
+      "location": "Departure Platform",
+      "text": "Some doors stay open even when people step away from them.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_ending_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_ending_002",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_ending",
+      "chapter": "Ending",
+      "location": "Departure Platform",
+      "text": "It is me being stubborn on your behalf.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_ending_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_ending_003",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_ending",
+      "chapter": "Ending",
+      "location": "Departure Platform",
+      "text": "Tragically, yes. One of my finest defects.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_ending_003.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_bittersweet_ending_004",
+      "speaker": "Arden",
+      "scene_id": "bittersweet_ending",
+      "chapter": "Ending",
+      "location": "Departure Platform",
+      "text": "This is not the ending where everything is held. But it is not the ending where everything is lost either.",
+      "suggested_file": "assets/audio/voice/arden/arden_bittersweet_ending_004.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_festival_side_path_001",
+      "speaker": "Arden",
+      "scene_id": "mischief_festival_side_path",
+      "chapter": "Chapter 3",
+      "location": "Festival Side Path",
+      "text": "You realize you have been encouraging me, yes?",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_festival_side_path_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_festival_side_path_002",
+      "speaker": "Arden",
+      "scene_id": "mischief_festival_side_path",
+      "chapter": "Chapter 3",
+      "location": "Festival Side Path",
+      "text": "Mm. Dangerous man. Inventing traditions near a woman with very poor impulse supervision.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_festival_side_path_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_trouble_trust_001",
+      "speaker": "Arden",
+      "scene_id": "mischief_trouble_trust",
+      "chapter": "Chapter 3",
+      "location": "Festival Side Path",
+      "text": "That was unfairly effective.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_trouble_trust_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_trouble_trust_002",
+      "speaker": "Arden",
+      "scene_id": "mischief_trouble_trust",
+      "chapter": "Chapter 3",
+      "location": "Festival Side Path",
+      "text": "Do not look that pleased with yourself. I am still the menace in charge.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_trouble_trust_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_rule_tease_001",
+      "speaker": "Arden",
+      "scene_id": "mischief_rule_tease",
+      "chapter": "Chapter 3",
+      "location": "Festival Side Path",
+      "text": "Rule one: no pretending you are fine when your face is staging a confession.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_rule_tease_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_rule_tease_002",
+      "speaker": "Arden",
+      "scene_id": "mischief_rule_tease",
+      "chapter": "Chapter 3",
+      "location": "Festival Side Path",
+      "text": "Rule two: if I say come here, you are allowed to believe I mean it kindly.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_rule_tease_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_lantern_blame_001",
+      "speaker": "Arden",
+      "scene_id": "mischief_lantern_blame",
+      "chapter": "Chapter 3",
+      "location": "Festival Side Path",
+      "text": "The lanterns have retained legal counsel and deny everything.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_lantern_blame_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_lantern_blame_002",
+      "speaker": "Arden",
+      "scene_id": "mischief_lantern_blame",
+      "chapter": "Chapter 3",
+      "location": "Festival Side Path",
+      "text": "Careful. I like you ridiculous.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_lantern_blame_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_route_lock_001",
+      "speaker": "Arden",
+      "scene_id": "mischief_route_lock",
+      "chapter": "Mischief Route",
+      "location": "Storm Room",
+      "text": "No. That would be ridiculous.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_route_lock_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_route_lock_002",
+      "speaker": "Arden",
+      "scene_id": "mischief_route_lock",
+      "chapter": "Mischief Route",
+      "location": "Storm Room",
+      "text": "Fine. It may have opinions.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_route_lock_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_route_rules_001",
+      "speaker": "Arden",
+      "scene_id": "mischief_route_rules",
+      "chapter": "Mischief Route",
+      "location": "Storm Room",
+      "text": "Dangerous sentence, love.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_route_rules_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_route_rules_002",
+      "speaker": "Arden",
+      "scene_id": "mischief_route_rules",
+      "chapter": "Mischief Route",
+      "location": "Storm Room",
+      "text": "Then rule one: you do not get to use jokes as little locked doors.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_route_rules_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_route_rules_003",
+      "speaker": "Arden",
+      "scene_id": "mischief_route_rules",
+      "chapter": "Mischief Route",
+      "location": "Storm Room",
+      "text": "Rule two: if you tease me, you stay honest underneath it.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_route_rules_003.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_route_challenge_001",
+      "speaker": "Arden",
+      "scene_id": "mischief_route_challenge",
+      "chapter": "Mischief Route",
+      "location": "Storm Room",
+      "text": "Oh, pookie.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_route_challenge_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_route_challenge_002",
+      "speaker": "Arden",
+      "scene_id": "mischief_route_challenge",
+      "chapter": "Mischief Route",
+      "location": "Storm Room",
+      "text": "That sounds like you noticing consequences slightly too late.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_route_challenge_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_route_safe_trouble_001",
+      "speaker": "Arden",
+      "scene_id": "mischief_route_safe_trouble",
+      "chapter": "Mischief Route",
+      "location": "Storm Room",
+      "text": "That is my favorite kind.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_route_safe_trouble_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_route_safe_trouble_002",
+      "speaker": "Arden",
+      "scene_id": "mischief_route_safe_trouble",
+      "chapter": "Mischief Route",
+      "location": "Storm Room",
+      "text": "Yes. Mischief that still knows where home is.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_route_safe_trouble_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_lantern_game_001",
+      "speaker": "Arden",
+      "scene_id": "mischief_lantern_game",
+      "chapter": "Mischief Route",
+      "location": "Lantern Game",
+      "text": "The lantern wants a game.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_lantern_game_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_lantern_game_002",
+      "speaker": "Arden",
+      "scene_id": "mischief_lantern_game",
+      "chapter": "Mischief Route",
+      "location": "Lantern Game",
+      "text": "Unfortunately, it has me.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_lantern_game_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_honest_answer_001",
+      "speaker": "Arden",
+      "scene_id": "mischief_honest_answer",
+      "chapter": "Mischief Route",
+      "location": "Lantern Game",
+      "text": "Good.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_honest_answer_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_honest_answer_002",
+      "speaker": "Arden",
+      "scene_id": "mischief_honest_answer",
+      "chapter": "Mischief Route",
+      "location": "Lantern Game",
+      "text": "No. Brave. But I am trying not to become unbearably soft in public.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_honest_answer_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_caught_smile_001",
+      "speaker": "Arden",
+      "scene_id": "mischief_caught_smile",
+      "chapter": "Mischief Route",
+      "location": "Lantern Game",
+      "text": "Caught.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_caught_smile_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_caught_smile_002",
+      "speaker": "Arden",
+      "scene_id": "mischief_caught_smile",
+      "chapter": "Mischief Route",
+      "location": "Lantern Game",
+      "text": "Yes. That is how caring about someone works. Terribly inconvenient.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_caught_smile_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_out_tease_001",
+      "speaker": "Arden",
+      "scene_id": "mischief_out_tease",
+      "chapter": "Mischief Route",
+      "location": "Lantern Game",
+      "text": "That sentence is going in your file.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_out_tease_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_out_tease_002",
+      "speaker": "Arden",
+      "scene_id": "mischief_out_tease",
+      "chapter": "Mischief Route",
+      "location": "Lantern Game",
+      "text": "A whole folder. Labeled: my problem, do not misplace.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_out_tease_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_final_walk_001",
+      "speaker": "Arden",
+      "scene_id": "mischief_final_walk",
+      "chapter": "Mischief Route",
+      "location": "Festival Side Path",
+      "text": "You know what I like about this route?",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_final_walk_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_final_walk_002",
+      "speaker": "Arden",
+      "scene_id": "mischief_final_walk",
+      "chapter": "Mischief Route",
+      "location": "Festival Side Path",
+      "text": "That is merely a lifestyle. I like that you stayed playful without disappearing behind it.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_final_walk_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_ending_001",
+      "speaker": "Arden",
+      "scene_id": "mischief_ending",
+      "chapter": "Ending",
+      "location": "Mischief Ending",
+      "text": "You chose trouble, love.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_ending_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_ending_002",
+      "speaker": "Arden",
+      "scene_id": "mischief_ending",
+      "chapter": "Ending",
+      "location": "Mischief Ending",
+      "text": "I am professionally obligated to pretend I do.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_ending_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_mischief_ending_003",
+      "speaker": "Arden",
+      "scene_id": "mischief_ending",
+      "chapter": "Ending",
+      "location": "Mischief Ending",
+      "text": "But between us? I like this ending. It keeps the mischief, and it keeps you close.",
+      "suggested_file": "assets/audio/voice/arden/arden_mischief_ending_003.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_prelock_confession_001",
+      "speaker": "Arden",
+      "scene_id": "true_violet_prelock_confession",
+      "chapter": "Chapter 4",
+      "location": "Storm Room",
+      "text": "Then we do not call that weakness.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_prelock_confession_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_prelock_confession_002",
+      "speaker": "Arden",
+      "scene_id": "true_violet_prelock_confession",
+      "chapter": "Chapter 4",
+      "location": "Storm Room",
+      "text": "A place we are going back to with a lantern.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_prelock_confession_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_route_lock_001",
+      "speaker": "Arden",
+      "scene_id": "true_violet_route_lock",
+      "chapter": "True Violet Route",
+      "location": "Secret Lantern Garden",
+      "text": "This is the True Violet route.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_route_lock_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_route_lock_002",
+      "speaker": "Arden",
+      "scene_id": "true_violet_route_lock",
+      "chapter": "True Violet Route",
+      "location": "Secret Lantern Garden",
+      "text": "It is. Not because it fixes everything. Because you stop abandoning yourself to be easier to hold.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_route_lock_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_garden_return_001",
+      "speaker": "Arden",
+      "scene_id": "true_violet_garden_return",
+      "chapter": "True Violet Route",
+      "location": "Secret Lantern Garden",
+      "text": "Good. I was planning to be stubborn about that.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_garden_return_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_garden_return_002",
+      "speaker": "Arden",
+      "scene_id": "true_violet_garden_return",
+      "chapter": "True Violet Route",
+      "location": "Secret Lantern Garden",
+      "text": "Shocking, I know. Try to recover.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_garden_return_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_witness_001",
+      "speaker": "Arden",
+      "scene_id": "true_violet_witness",
+      "chapter": "True Violet Route",
+      "location": "Secret Lantern Garden",
+      "text": "Then I will look carefully. Not to judge them. To make sure they know they were not forgotten.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_witness_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_scared_stayed_001",
+      "speaker": "Arden",
+      "scene_id": "true_violet_scared_stayed",
+      "chapter": "True Violet Route",
+      "location": "Secret Lantern Garden",
+      "text": "That is the bravest sentence in this whole town.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_scared_stayed_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_scared_stayed_002",
+      "speaker": "Arden",
+      "scene_id": "true_violet_scared_stayed",
+      "chapter": "True Violet Route",
+      "location": "Secret Lantern Garden",
+      "text": "Especially with the haunted lanterns. They are dramatic little witnesses.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_scared_stayed_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_lantern_of_names_001",
+      "speaker": "Arden",
+      "scene_id": "true_violet_lantern_of_names",
+      "chapter": "True Violet Route",
+      "location": "Lantern of Names",
+      "text": "This one asks you to name something without making it smaller.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_lantern_of_names_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_lantern_of_names_002",
+      "speaker": "Arden",
+      "scene_id": "true_violet_lantern_of_names",
+      "chapter": "True Violet Route",
+      "location": "Lantern of Names",
+      "text": "It has me instead. Much worse for evasive men.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_lantern_of_names_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_named_loneliness_001",
+      "speaker": "Arden",
+      "scene_id": "true_violet_named_loneliness",
+      "chapter": "True Violet Route",
+      "location": "Lantern of Names",
+      "text": "Loneliness is not proof you are broken. It is proof something in you still reaches.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_named_loneliness_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_named_too_much_001",
+      "speaker": "Arden",
+      "scene_id": "true_violet_named_too_much",
+      "chapter": "True Violet Route",
+      "location": "Lantern of Names",
+      "text": "Then let me be very clear.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_named_too_much_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_named_too_much_002",
+      "speaker": "Arden",
+      "scene_id": "true_violet_named_too_much",
+      "chapter": "True Violet Route",
+      "location": "Lantern of Names",
+      "text": "Needing care does not make you too much. It makes you someone who should have been met more gently.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_named_too_much_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_named_held_001",
+      "speaker": "Arden",
+      "scene_id": "true_violet_named_held",
+      "chapter": "True Violet Route",
+      "location": "Lantern of Names",
+      "text": "That part has excellent taste.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_named_held_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_named_held_002",
+      "speaker": "Arden",
+      "scene_id": "true_violet_named_held",
+      "chapter": "True Violet Route",
+      "location": "Lantern of Names",
+      "text": "And it is allowed. That was the serious half, tucked very elegantly inside the menace.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_named_held_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_storm_confession_001",
+      "speaker": "Arden",
+      "scene_id": "true_violet_storm_confession",
+      "chapter": "True Violet Route",
+      "location": "Storm Room",
+      "text": "The truth did not make you smaller.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_storm_confession_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_storm_confession_002",
+      "speaker": "Arden",
+      "scene_id": "true_violet_storm_confession",
+      "chapter": "True Violet Route",
+      "location": "Storm Room",
+      "text": "Good. I do not want the edited version of you.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_storm_confession_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_final_door_001",
+      "speaker": "Arden",
+      "scene_id": "true_violet_final_door",
+      "chapter": "True Violet Route",
+      "location": "The Final Door",
+      "text": "This is not a door to the past.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_final_door_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_final_door_002",
+      "speaker": "Arden",
+      "scene_id": "true_violet_final_door",
+      "chapter": "True Violet Route",
+      "location": "The Final Door",
+      "text": "A door back to yourself.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_final_door_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_ending_001",
+      "speaker": "Arden",
+      "scene_id": "true_violet_ending",
+      "chapter": "Ending",
+      "location": "Secret Lantern Garden",
+      "text": "There you are.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_ending_001.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_ending_002",
+      "speaker": "Arden",
+      "scene_id": "true_violet_ending",
+      "chapter": "Ending",
+      "location": "Secret Lantern Garden",
+      "text": "Parts of you were. But you came back for them.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_ending_002.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_ending_003",
+      "speaker": "Arden",
+      "scene_id": "true_violet_ending",
+      "chapter": "Ending",
+      "location": "Secret Lantern Garden",
+      "text": "Then we use smaller lanterns. Coffee. One honest sentence. One door left unlocked.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_ending_003.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_ending_004",
+      "speaker": "Arden",
+      "scene_id": "true_violet_ending",
+      "chapter": "Ending",
+      "location": "Secret Lantern Garden",
+      "text": "Good. I prefer my miracles domestic and slightly smug.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_ending_004.ogg",
+      "status": "needs_recording"
+    },
+    {
+      "line_id": "arden_true_violet_ending_005",
+      "speaker": "Arden",
+      "scene_id": "true_violet_ending",
+      "chapter": "Ending",
+      "location": "Secret Lantern Garden",
+      "text": "Come here, my Sarel. You are not leaving yourself outside anymore.",
+      "suggested_file": "assets/audio/voice/arden/arden_true_violet_ending_005.ogg",
+      "status": "needs_recording"
+    }
+  ]
+}
