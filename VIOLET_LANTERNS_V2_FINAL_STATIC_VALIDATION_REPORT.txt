@@ -1,0 +1,24 @@
+Violet Lanterns v2.0
+Final Static Validation Report
+
+JavaScript:
+- node --check passed.
+
+Menu:
+- Clean v2.0 menu label present.
+- Fix-pass wording removed from main menu.
+- Release Notes and Developer Tools moved into Extras.
+
+Player-facing polish:
+- Ending Result screen cleaned.
+- Extras screen added.
+- Credits copy updated.
+
+Reward CGs:
+- reward_warm_final.png present.
+- reward_mischief_final.png present.
+- reward_true_violet_final.png present.
+- reward_bittersweet_final.png present.
+
+Result:
+- Final presentable release package generated successfully.

@@ -1,0 +1,32 @@
+Violet Lanterns v2.0
+Final Presentable Release Build
+
+Base build:
+- Built from v2.0 RC6 — Bittersweet Reward CG Integration Pass.
+
+Presentation polish:
+- Removed fix-pass wording from the main menu.
+- Main menu now shows clean v2.0 release text.
+- Release Notes and Developer Tools are tucked under Extras.
+- Ending Result screen no longer shows QA/dev wording.
+- Credits copy changed from release-candidate wording to private release-build wording.
+
+Preserved:
+- Complete playable story prototype.
+- Routes and endings.
+- Save/load and New Game+.
+- CG Gallery.
+- Ending Rewards gallery.
+- Warm, Mischief, True Violet, and Bittersweet final reward CGs.
+- Café/train ambience and music balancing.
+- Outfit continuity fixes.
+- Credits and audio source notes.
+
+Polish check:
+- JavaScript syntax passed.
+- Main menu no longer includes direct Developer Tools or Release Notes buttons.
+- All four reward final CG files are present.
+- Critical ambience and audio files are present.
+
+Status:
+- Presentable private v2.0 build.

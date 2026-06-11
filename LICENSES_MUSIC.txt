@@ -1,0 +1,36 @@
+Violet Lanterns
+v1.9.8 Music License and Source Notes
+
+This build integrates music files uploaded by Sarel into local runtime assets.
+
+Runtime storage:
+- assets/audio/local/music/runtime_mp3/
+- assets/audio/local/music/originals/
+
+Standalone MP3 uploads used as runtime music:
+- Cat caffe.mp3
+- Countryside.mp3
+- Rainy Forest.mp3
+- Cue.mp3
+- A cup of tea.mp3
+- Oceanside.mp3
+- Florist.mp3
+- Bartender.mp3
+- jkjkke - dream.mp3
+- pretty.mp3
+- hitslab-japan-japanese-music-502006.mp3
+- tunetank-japan-relaxing-background-music-349494.mp3
+- yulius2tudio-dreamy-japanese-anime-soundtrack-438116.mp3
+- djovan-bamboo-wind-serenity-497194.mp3
+- cfl_turningpages-japanese-shakuhachi-flute-zen-379144.mp3
+- geoffharvey-japanese-peace-garden-oriental-382990.mp3
+- music-for-videos-japanese-lofi-beat-cozy-chill-vlog-soft-and-smooth-334379.mp3
+
+Uploaded but not yet wired in this fast integration:
+- kenney_music-jingles.zip
+- JRPG Music Pack #4 [Calm] by Juhani Junkala.zip
+
+Important release note:
+- These standalone MP3s are treated as user-provided assets.
+- Before public/commercial distribution, verify each exact source page/license and keep a copy of the license terms or URL.
+- In-game integration is local/offline-ready, but legal clearance should be confirmed before public release.

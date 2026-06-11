@@ -1,0 +1,87 @@
+Violet Lanterns
+v1.9.7 Audio Licenses and Source Notes
+
+This build uses uploaded real audio packs and stores selected runtime copies locally as MP3.
+
+Included source packs uploaded by Sarel:
+1. kenney_ui-audio.zip
+   Source: Kenney UI Audio
+   License: Creative Commons CC0
+   Runtime use: buttons, menu clicks, toggles.
+
+2. kenney_interface-sounds.zip
+   Source: Kenney Interface Sounds
+   License: Creative Commons CC0
+   Runtime use: choices, confirmations, save/load, route lock, CG unlock, achievement, ending, error, page/panel sounds.
+
+3. Rain OGG.zip
+   Source: OpenGameArt - Rain (loopable)
+   Author listed on source page: Ylmir
+   License listed on source page: CC0
+   Runtime use: rain and heavier rain/storm ambience.
+
+4. Free Wind Chimes Ogg.zip
+   Source: OpenGameArt - Wind Chimes
+   Author listed on source page: pmiller
+   License listed on source page: CC0
+   Runtime use: garden, festival/chime ambience, menu loop.
+
+Implementation:
+- Selected OGG source files were copied into assets/audio/local/vendor/originals/.
+- Runtime MP3 copies were created under assets/audio/local/vendor_runtime_mp3/.
+- MP3 runtime copies are used because they are generally more reliable on iPhone/Safari-style browsers than OGG.
+- Generated Python sounds are no longer the preferred runtime path; they remain only as emergency fallback.
+
+Known limitation:
+- No real café or train-platform ambience file was uploaded, so v1.9.7 intentionally leaves café/train ambience silent rather than using fake generated room tone.
+
+
+--- Embedded Kenney License Files ---
+
+[kenney_ui_audio]
+	
+
+	UI SFX Set
+
+	by  Kenney Vleugels (Kenney.nl)
+
+			------------------------------
+
+	License (Creative Commons Zero, CC0)
+	http://creativecommons.org/publicdomain/zero/1.0/
+
+	You may use these assets in personal and commercial projects.
+	Credit (Kenney or www.kenney.nl) would be nice but is not mandatory.
+
+			------------------------------
+
+	Donate:   http://support.kenney.nl
+	Request:  http://request.kenney.nl
+
+	Follow on Twitter for updates:
+	@KenneyNL
+
+[kenney_interface_sounds]
+	
+
+	Interface Sounds (1.0)
+
+	Created/distributed by Kenney (www.kenney.nl)
+	Creation date: 11-02-2020
+
+			------------------------------
+
+	License: (Creative Commons Zero, CC0)
+	http://creativecommons.org/publicdomain/zero/1.0/
+
+	This content is free to use in personal, educational and commercial projects.
+
+	Support us by crediting Kenney or www.kenney.nl (this is not mandatory)
+
+			------------------------------
+
+	Donate:   http://support.kenney.nl
+	Patreon:  http://patreon.com/kenney/
+
+	Follow on Twitter for updates:
+	http://twitter.com/KenneyNL

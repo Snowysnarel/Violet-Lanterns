@@ -1,0 +1,27 @@
+Violet Lanterns — Credits & Audio Source Notes
+v2.0
+
+Creative / Integration
+- Private Cozy Corner visual novel project created for Sarel.
+- Story, route logic, UI integration, audio integration, QA pass structure, and release-candidate packaging were assembled inside the Cozy Corner project workflow.
+
+Visual Direction
+- Rainy Japanese mountain town.
+- Violet Inn café.
+- Purple-gold lantern warmth.
+- Cozy romantic visual novel atmosphere.
+- Arden visual consistency is based on the uploaded Arden reference sheets and included sprite assets.
+
+Audio Source Notes
+- Rain and wind-chime ambience: user-provided OpenGameArt-style audio packs converted/integrated as local runtime MP3 ambience.
+- UI/interface SFX: user-provided Kenney UI and interface sound packs converted/integrated as local runtime MP3 assets.
+- Background music: user-provided standalone MP3 tracks integrated as local scene-aware music.
+- Café and train ambience: mixed from existing real local vendor audio already in the packaged project.
+
+Voice Status
+- No final recorded voice files are bundled.
+- Browser TTS fallback remains prototype-only and depends on the browser/device.
+
+Public Release Warning
+- This v2.0 is safe for private testing.
+- Before any public/commercial release, verify exact source/license pages for each standalone music MP3 and keep a copy of the license terms.
