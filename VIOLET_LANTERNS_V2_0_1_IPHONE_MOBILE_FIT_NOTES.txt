@@ -1,0 +1,23 @@
+Violet Lanterns v2.0.1
+iPhone Mobile Fit Build
+
+Base build:
+- Built from Violet Lanterns v2.0 — Final Presentable Release Build.
+
+What changed:
+- Added proportional small-screen CSS for iPhone and narrow phone displays.
+- Reduced main menu, button, dialogue, choice, panel, gallery, and CG viewer sizes.
+- Repositioned Arden sprites for portrait screens so they do not feel desktop-sized.
+- Hid several non-essential in-game HUD buttons on phone screens to prevent wrapping clutter.
+- Added iPhone/Safari viewport-fit and safe-area handling.
+- Added a visualViewport height updater for Safari address bar changes.
+- Added manifest.webmanifest and iPhone app icon PNGs.
+- Added .nojekyll for GitHub Pages.
+
+Preserved:
+- Full story, routes, endings, saves, galleries, audio, ambience, and all four final reward CGs.
+
+Recommended GitHub update:
+- Replace the files in the repository with the contents of this build folder.
+- Commit and push with GitHub Desktop.
+- Open the Pages link on iPhone Safari and refresh.

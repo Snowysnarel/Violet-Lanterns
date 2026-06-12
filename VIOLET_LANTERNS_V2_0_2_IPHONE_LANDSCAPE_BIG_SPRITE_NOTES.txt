@@ -1,0 +1,26 @@
+Violet Lanterns v2.0.2
+iPhone Landscape Big Sprite Build
+
+Base build:
+- Built from Violet Lanterns v2.0.1 — iPhone Mobile Fit Build.
+
+What changed:
+- Mobile play is now landscape-first.
+- Manifest orientation is set to landscape for Home Screen/PWA installs.
+- Arden sprite scaling is larger in landscape:
+  - normal: up to 78vh
+  - close: up to 86vh
+  - small: up to 70vh
+  - far: up to 64vh
+- Dialogue box, choices, HUD, panels, menu, and CG viewer were adjusted for landscape proportions.
+- Portrait mode remains usable but now gently notes that the game is best played sideways.
+
+Preserved:
+- Full v2.0 content.
+- v2.0.1 iPhone safe-area and Safari dynamic viewport handling.
+- All routes, endings, saves, galleries, audio, ambience, and final reward CGs.
+
+Recommended GitHub update:
+- Replace the repository contents with the extracted contents of this build.
+- Commit and push using GitHub Desktop.
+- On iPhone, refresh the GitHub Pages link or remove/re-add the Home Screen icon if Safari keeps the old PWA settings cached.

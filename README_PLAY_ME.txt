@@ -1,5 +1,5 @@
 # Violet Lanterns: A Cozy Corner Romance
-Violet Lanterns v2.0 — Final Presentable Release Build
+Violet Lanterns v2.0.2 — iPhone Landscape Big Sprite Build
 
 ## How to play
 Open `index.html` in Google Chrome on your laptop.
@@ -487,3 +487,19 @@ Transparent Arden sprite cleanup.
 - Ending Result screen cleaned to feel player-facing.
 - All four Ending Reward CGs are Final CG Live.
 - This is the clean private v2.0 build.
+
+
+## Violet Lanterns v2.0.1 — iPhone Mobile Fit Build
+- Added proportional layout rules for iPhone and narrow mobile screens.
+- Main menu, dialogue box, sprites, choices, panels, galleries, and CG viewer now scale down for smaller displays.
+- Added safe-area and dynamic viewport handling for Safari.
+- Added manifest.webmanifest, iPhone app icon assets, and .nojekyll for GitHub Pages.
+- All v2.0 content and final Ending Reward CGs are preserved.
+
+
+## Violet Lanterns v2.0.2 — iPhone Landscape Big Sprite Build
+- Tuned the iPhone/mobile layout for landscape-first play.
+- Enlarged Arden's sprite scaling in landscape mode.
+- Adjusted dialogue, choices, HUD, menu, panels, and CG viewer for landscape proportions.
+- Manifest orientation set to landscape for Home Screen/PWA installs.
+- v2.0.1 safe-area and Safari viewport fixes are preserved.
